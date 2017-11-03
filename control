@@ -1,0 +1,9 @@
+Package: com.adamk.powereplacer
+Name: Power Replacer
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: {Experiment} (beta) Turn off your phone via application (requires root access)
+Maintainer: Adam Kazma
+Author: Adam Kazma & Omar Chehab
+Section: Utilities
